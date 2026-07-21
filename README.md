@@ -1,1 +1,1 @@
-# linkedin-devsecops-githubactions-ecr
+# LinkedIn App — DevSecOps Pipeline | GitHub Actions | Trivy | AWS ECR
