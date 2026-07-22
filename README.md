@@ -39,7 +39,7 @@ Push to main → Build Docker Image → Trivy Security Scan → Push to Amazon E
 - Flags **HIGH** and **CRITICAL** vulnerabilities with available fixes
 - Exports scan results as a **JSON artifact** downloadable from the Actions tab
 
-![Trivy Scan Artifact](images/trivy-artifact.png)
+![Trivy Scan Artifact](images/Githubaction_Artifact.jpg)
 
 
 ### 3. Build and Publish
@@ -49,12 +49,12 @@ Push to main → Build Docker Image → Trivy Security Scan → Push to Amazon E
 - Tags image with both `github.sha` and `latest`
 - Pushes both tags to ECR
 
-![ECR Image Pushed](images/ecr-image-pushed.png)
+![ECR Image Pushed](images/AWS_ECR_Image.jpg)
 
 
 ## GitHub Actions Successful Run
 
-![GitHub Actions Success](images/github-actions-success.png)
+![GitHub Actions Success](images/Pipeline_passing.jpg)
 
 
 ---
