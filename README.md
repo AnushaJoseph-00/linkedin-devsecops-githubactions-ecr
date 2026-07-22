@@ -1,5 +1,5 @@
 
-# LinkedIn App — DevSecOps Pipeline | GitHub Actions | Trivy | AWS ECR
+# LinkedIn App: DevSecOps Pipeline | GitHub Actions | Trivy | AWS ECR
 
 A DevSecOps CI/CD pipeline built on top of a MERN LinkedIn clone, demonstrating automated Docker builds, security vulnerability scanning, and container image delivery to AWS ECR using GitHub Actions.
 
